@@ -731,6 +731,9 @@ p a{
   .gamble{
     height: 190px;
   }
+  hr{
+    display:none;
+  }
 
  
 }
