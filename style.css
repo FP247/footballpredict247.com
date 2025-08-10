@@ -43,7 +43,7 @@ th{
 }
 
 
-.gamble{
+.container{
   margin-left: auto;
   margin-right: auto;
   width: 450px;
@@ -158,4 +158,5 @@ footer{
   .tips{
     display: none;
   }
+
 }
